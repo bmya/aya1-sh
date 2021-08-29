@@ -2,7 +2,6 @@
 	path = bmya/odoo-bmya
 	url = git@github.com:bmya/odoo-bmya.git
 	branch = 14.0
-
 [submodule "OCA/server-tools"]
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
@@ -19,7 +18,6 @@
 	path = OCA/product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 14.0
-
 [submodule "OCA/credit-control"]
 	path = OCA/credit-control
 	url = git@github.com:OCA/credit-control.git
