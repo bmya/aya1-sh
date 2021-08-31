@@ -22,3 +22,7 @@
 	path = OCA/credit-control
 	url = git@github.com:OCA/credit-control.git
 	branch = 14.0
+[submodule "bmya/remu"]
+	path = bmya/remu
+	url = git@github.com:bmya/remu.git
+	branch = 14.0
