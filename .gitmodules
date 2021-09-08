@@ -30,7 +30,3 @@
 	path = bmya/update-odoo
 	url = git@github.com:bmya/update-odoo.git
 	branch = 14.0-dev-debug
-[submodule "asturias"]
-	path = asturias
-	url = git@github.com:bmya/asturias.git
-	branch = 14.0_dev
