@@ -26,3 +26,7 @@
 	path = bmya/remu
 	url = git@github.com:bmya/remu.git
 	branch = 14.0
+[submodule "bmya/update-odoo"]
+	path = bmya/update-odoo
+	url = git@github.com:bmya/update-odoo.git
+	branch = 14.0-dev-debug
