@@ -30,3 +30,13 @@
 	path = bmya/update-odoo
 	url = git@github.com:bmya/update-odoo.git
 	branch = 14.0-dev-debug
+
+[submodule "OCA/stock-logistics-warehouse"]
+	path = OCA/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 14.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 14.0
