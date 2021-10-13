@@ -36,10 +36,6 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
-[submodule "bmya/asturias"]
-	path = bmya/asturias
-	url = git@github.com:bmya/asturias.git
-        branch = 14.0_dev
 [submodule "bmya/bmya-enterprise"]
 	path = bmya/bmya-enterprise
 	url = git@github.com:bmya/bmya-enterprise.git
