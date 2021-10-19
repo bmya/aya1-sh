@@ -44,3 +44,8 @@
 	path = bmya/asturias
 	url = git@github.com:bmya/asturias.git
 	branch = 14.0_dev
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
