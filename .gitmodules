@@ -6,10 +6,6 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 14.0
-[submodule "bmya/bmya-enterprise"]
-	path = bmya/bmya-enterprise
-	url = git@github.com:bmya/bmya-enterprise.git
-	branch = 14.0
 [submodule "OCA/server-ux"]
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
@@ -39,4 +35,17 @@
 [submodule "OCA/web"]
 	path = OCA/web
 	url = git@github.com:OCA/web.git
+	branch = 14.0
+[submodule "bmya/bmya-enterprise"]
+	path = bmya/bmya-enterprise
+	url = git@github.com:bmya/bmya-enterprise.git
+	branch = 14.0
+[submodule "bmya/asturias"]
+	path = bmya/asturias
+	url = git@github.com:bmya/asturias.git
+	branch = 14.0_dev
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
 	branch = 14.0
