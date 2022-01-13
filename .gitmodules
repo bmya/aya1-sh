@@ -2,33 +2,9 @@
         path = bmya/odoo-bmya
         url = git@github.com:bmya/odoo-bmya.git
         branch = 14.0
-[submodule "OCA/server-tools"]
-	path = OCA/server-tools
-	url = git@github.com:OCA/server-tools.git
-	branch = 14.0
-[submodule "OCA/server-ux"]
-	path = OCA/server-ux
-	url = git@github.com:OCA/server-ux.git
-	branch = 14.0
-[submodule "OCA/product-attribute"]
-	path = OCA/product-attribute
-	url = git@github.com:OCA/product-attribute.git
-	branch = 14.0
-[submodule "OCA/credit-control"]
-	path = OCA/credit-control
-	url = git@github.com:OCA/credit-control.git
-	branch = 14.0
 [submodule "bmya/remu"]
 	path = bmya/remu
 	url = git@github.com:bmya/remu.git
-	branch = 14.0
-[submodule "OCA/stock-logistics-warehouse"]
-	path = OCA/stock-logistics-warehouse
-	url = git@github.com:OCA/stock-logistics-warehouse.git
-	branch = 14.0
-[submodule "OCA/web"]
-	path = OCA/web
-	url = git@github.com:OCA/web.git
 	branch = 14.0
 [submodule "bmya/bmya-enterprise"]
 	path = bmya/bmya-enterprise
@@ -38,7 +14,31 @@
 	path = bmya/asturias
 	url = git@github.com:bmya/asturias.git
 	branch = 14.0_dev
-[submodule "OCA/sale-workflow"]
-	path = OCA/sale-workflow
-	url = git@github.com:OCA/sale-workflow.git
+[submodule "bmya/product-attribute"]
+	path = bmya/product-attribute
+	url = git@github.com:bmya/product-attribute.git
+	branch = 14.0
+[submodule "bmya/server-tools"]
+	path = bmya/server-tools
+	url = git@github.com:bmya/server-tools.git
+	branch = 14.0
+[submodule "bmya/server-ux"]
+	path = bmya/server-ux
+	url = git@github.com:bmya/server-ux.git
+	branch = 14.0
+[submodule "bmya/credit-control"]
+	path = bmya/credit-control
+	url = git@github.com:bmya/credit-control.git
+	branch = 14.0
+[submodule "bmya/web"]
+	path = bmya/web
+	url = git@github.com:bmya/web.git
+	branch = 14.0
+[submodule "bmya/stock-logistics-warehouse"]
+	path = bmya/stock-logistics-warehouse
+	url = git@github.com:bmya/stock-logistics-warehouse.git
+	branch = 14.0
+[submodule "bmya/sale-workflow"]
+	path = bmya/sale-workflow
+	url = git@github.com:bmya/sale-workflow.git
 	branch = 14.0
